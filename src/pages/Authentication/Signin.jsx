@@ -43,10 +43,10 @@ const SignIn = () => {
             <div className='hidden w-full xl:block xl:w-1/2'>
               <div className='py-17.5 px-26 text-center'>
                 <h1 className=' text-3xl text-center mx-2 my-2 font-bold  px-2 py-1'>
-                  Healwell Manager
+                  Psychologists Manager
                 </h1>
 
-                <p className='2xl:px-20'>A healwell management system</p>
+                <p className='2xl:px-20'>A psychologist management system</p>
 
                 <span className='mt-15 inline-block'>
                   <svg
